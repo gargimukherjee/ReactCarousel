@@ -118,7 +118,7 @@ showNextTile = () => {
 }
 
 /**
- * Tranlate animation and calculations for each slide
+ * Translate animation and calculations for each slide
  */
 updateTranslateX(){
    this.carousel.current.style.transform = "translateX(" + (-1*this.tileWidth)*this.firstVisibleTileIndex + "px)";

@@ -14,8 +14,6 @@ class CarouselSliderComponent extends Component {
   }
 
   selectTile = (e) => {
-    console.log(e.target);
-    console.log(e.currentTarget);
     let selectedTile = e.currentTarget;
    
     for(let i=0;i<this.content.length;i++){
