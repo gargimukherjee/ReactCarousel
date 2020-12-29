@@ -17,6 +17,4 @@ Large screens will show upto 5 slides at a time initially. As the screen size re
 1. Make it more configurable- shapes, colors, background-image and text. 
 2. Implement server calls - data structure. 
 3. Write Test cases - 
-4. Update readme file.
-5. Update favico
 6. Define Proptypes
